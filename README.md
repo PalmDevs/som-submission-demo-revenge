@@ -18,6 +18,10 @@ In the GitHub release, you'll see multiple APK files. Download **ALL** of them a
 6. SAI will ask for permissions to install, grant it.
 7. Back out of Settings and tap the Install prompt.
 
+Don't know what all of that means? No problem, here's a video:
+
+[![Video](https://github.com/user-attachments/assets/aa08f7f5-d060-4e10-9fd1-13b0f14fca29)](https://github.com/user-attachments/assets/aa08f7f5-d060-4e10-9fd1-13b0f14fca29)
+
 ### ✅ Verify that the installation works
 
 Once logged into Discord, head into its Settings and make sure the Revenge section appears at the top, like so:
