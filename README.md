@@ -6,21 +6,9 @@
 - [Project on GitHub](https://github.com/revenge-mod/revenge-bundle-next)
 - [Our Discord server](https://discord.com/invite/ddcQf3s2Uq)
 
-## 🛑 READ ME!
+## ⬇️ Download
 
-In the GitHub release, you'll see multiple APK files. Download **ALL** of them and follow these instructions:
-
-1. Install [SAI](https://github.com/Aefyr/SAI/releases/tag/4.5).
-2. Open SAI and tap the **Install APKs** button at the bottom.
-3. Tap **Internal file picker** and grant storage permissions.
-4. Locate and select **ALL** APK files you've just downloaded.
-5. Tap **Install**.
-6. SAI will ask for permissions to install, grant it.
-7. Back out of Settings and tap the Install prompt.
-
-Don't know what all of that means? No problem, here's a video:
-
-[![Video](https://github.com/user-attachments/assets/aa08f7f5-d060-4e10-9fd1-13b0f14fca29)](https://github.com/user-attachments/assets/aa08f7f5-d060-4e10-9fd1-13b0f14fca29)
+See the release for the download.
 
 ### ✅ Verify that the installation works
 
@@ -28,7 +16,7 @@ Once logged into Discord, head into its Settings and make sure the Revenge secti
 
 <img width="403" height="355" alt="image" src="https://github.com/user-attachments/assets/8b8fd62f-3013-494b-b686-93f23a58a6c0" />
 
-## ❓ What does the GitHub release contain?
+## ❓ What does the release contain?
 
 The release contains a prebuilt version of Revenge. A patched Discord Android (293.6 Alpha) build.
 
@@ -42,6 +30,6 @@ Yes, but if you don't trust me, simply follow the [install instructions](https:/
 ### ⚠️ Disclaimers
 
 - The build only contains [my own plugins](https://github.com/PalmDevs/revenge-next-plugins). Revenge Next is in its very early stages, and external plugins aren't supported yet. I hope you understand why it is so limited at the moment.
-- Plugin states currently **DO NOT** save. Most plugins will be enabled by default and you will have to disable them manually every launch. Plugin settings are saved, however.
+- Some plugins are a work-in-progress and may not work as expected.
 - This is a client modification, which is against Discord's Terms of Service, but Discord themselves act indifferently on modified clients, and there are no known cases of people being banned for this.
 - This repository is not affiliated with the Revenge organization. The Revenge team will never release anything like this.
